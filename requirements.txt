@@ -1,0 +1,5 @@
+python-docx
+reportlab
+PyQt6
+Jinja2
+pytest
