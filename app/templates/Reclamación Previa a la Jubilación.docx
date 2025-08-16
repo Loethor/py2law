@@ -1,0 +1,51 @@
+Asunto:
+NOTIFICACIÓN DE RESOLUCIÓN
+REVISIÓN ANUAL, EXTINCIÓN DEL DERECHO.
+
+EXPEDIENTE: {{expediente}}
+
+A LA CONSELLERIA DE POLITICA SOCIAL.-
+DEPARTAMENTO TERRITORIAL DE {{departamento}}.-
+
+
+     {{nombre}}, mayor de edad, {{estado_civil}}, con DNI nº {{dni}}, con domicilio en {{direccion}}, ante esta Consellería comparece y, EXPONE:
+
+      Que, días pasados recibió Resolución de este Organismo comunicándole “la extinción del derecho a la pensión de jubilación no contributiva que percibe con efectos de fecha {{fecha_extincion}}, por superar los recursos de la unidad económica de convivencia de la que forma parte, el límite de acumulación de recursos establecido y por otro lado, el cobro indebido de {{cobro_indebido}} generado desde {{fecha_inicio}} a {{fecha_fin}}”.
+
+      Que, contra dicha Resolución, y dentro del plazo concedido al efecto, se formula la presente RECLAMACIÓN PREVIA, por considerar que la misma no se ajusta a derecho, en base a las siguientes alegaciones:
+
+      PRIMERA.- Que, con respecto al AÑO {{anio_1}}, muestra su conformidad con la modificación de la pensión abonada durante dicho año, habiendo percibido indebidamente el importe de enero a diciembre el importe de {{importe_indebido_anio_1}} ( {{importe_mensual_anio_1}} x14 pagas), debiendo haber percibido durante dicho período el importe de {{importe_debido_anio_1}} ({{importe_mensual_debido_anio_1}} x 14 pagas). Procede la devolución de la diferencia correspondiente al período {{periodo_anio_1}}, de {{diferencia_anio_1}} ({{calculo_diferencia_anio_1}}).
+
+      SEGUNDA.- Que, con respecto al AÑO {{anio_2}}, muestra su disconformidad, por las razones que seguidamente se exponen:
+       
+       a) la unidad familiar en la que convive, está formada por su esposo, {{nombre_esposo}} y su hija {{nombre_hija}}.
+
+       b) los ingresos previsibles para el año {{anio_2}} de los miembros que forman su unidad familiar son:
+
+       1.- la exponente, {{ingresos_exponente}}
+    
+       2.- su esposo, pensión de jubilación por importe mensual de {{pension_esposo_mensual}}, 14 pagas anuales, resultando unos ingresos anuales de {{pension_esposo_anual}}
+
+       3.- su hija:
+                     a) desde {{fecha_inicio_hija}} a {{fecha_fin_hija}}, salarios brutos por importes de {{salarios_hija_brutos}}, a razón de {{detalle_salarios_hija}}.
+
+                     b) desde {{fecha_inicio_desempleo}} a {{fecha_fin_desempleo}}, prestación de desempleo, por importe de {{prestacion_desempleo}}.  Se adjunta copia de Resolución del SEPE.
+
+            c) TOTAL INGRESOS: {{total_ingresos}}
+      TERCERA.- Que, el límite de ingresos para una unidad familiar formada por tres miembros siendo los mismos la exponente, su cónyuge y su hija, está fijado para el año {{anio_2}} en el importe de {{limite_ingresos}}.
+
+      Por tanto:
+
+       a) no procede la extinción de su pensión de jubilación no contributiva.
+
+      b) procede regularizar el importe percibido desde {{fecha_inicio_regularizacion}} a {{fecha_fin_regularizacion}}, y reintegro de las diferencias percibidas indebidamente percibidas por importe de {{importe_reintegro}}. Cobró  {{importe_cobrado}}  ({{detalle_cobrado}}) y debió cobrar  {{importe_debido}} ({{detalle_debido}}).
+
+        c) total a devolver {{total_devolver}} correspondientes al período {{periodo_devolver}}.
+
+     Por lo expuesto,
+
+      SOLICITA: Que, teniendo por presentado este escrito, lo admita, tramite como los de su clase y previas las comprobaciones oportunas, se emita nueva resolución anulando y revocando la recurrida y dictando nueva resolución, conforme a la cual se declare que NO SE EXTINGUE SU PRESTACIÓN DE JUBILACIÓN NO CONTRIBUTIVA Y QUE EL IMPORTE A DEVOLVER POR COBRO INDEBIDO DURANTE EL PERÍODO {{periodo_total}}, ES DE {{importe_total_devolver}}, y en todo caso se tenga por agotada la vía administrativa previa a la contencioso-laboral.
+
+      {{ciudad}}, a {{fecha_actual}}.
+
+Contenido: {{content}}
